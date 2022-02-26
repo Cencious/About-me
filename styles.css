@@ -2,4 +2,19 @@ h1{
     color: blue;
     font-style: italic;
     background-color: aquamarine;
+    text-align: center;
 }
+h2{
+    color: cadetblue;
+    font-style: italic;
+    text-align: center;
+}
+body{background-color: chocolate;}
+h4{
+    color: darkgreen;
+}
+.header img{
+    float: left;
+}
+
+
