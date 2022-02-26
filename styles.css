@@ -30,6 +30,11 @@ h4{
 .education{
     text-align: justify;
 }
+.prog{
+  text-align: justify;
+  border: 2px crimson solid;
+  padding: 0 5px;
+}
 
 
 
