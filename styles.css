@@ -13,8 +13,20 @@ body{background-color: chocolate;}
 h4{
     color: darkgreen;
 }
+.header{
+    padding: 20px;
+}
 .header img{
     float: left;
+    height: 200px;
+    margin-right: 5px;
+}
+.header p{
+    padding-left: 5px;
+}
+.projects{
+    margin-top: 250px;
+
 }
 
 
