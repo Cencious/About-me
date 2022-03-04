@@ -48,6 +48,12 @@ h4{
 .job-experience {
     padding: 5px;
 }
+@media (max-width:760px) {
+    body{ 
+        background-color: black;
+        color: white;
+    }
+}
 
 
 
