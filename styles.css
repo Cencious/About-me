@@ -56,10 +56,20 @@ h4{
 .job-experience {
     padding: 5px;
 }
-@media (max-width:760px) {
+@media (max-width:400px) {
     body{ 
         background-color: black;
         color: white;
+    }
+    .header img{
+        display: block;  
+        float: none;     
+    }
+    .header p{
+        margin-top: 10px;
+    }
+    .projects{
+        margin-top: 0px;
     }
 }
 
